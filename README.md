@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ARTHZIP
+- 👀 I’m interested in UX / UI Design
+- 🌱 I’m currently learning JS & Git
+- 💻 Work at AMA Environnement & MyDigitalSchool
+- 📊 Skills: Illustrator / Photoshop / InDesign / Lightroom / Premiere pro / Figma / HTML / CSS / PHP
